@@ -5,9 +5,9 @@
 
 1. Intro feat. React
 2. Getting Started
-3.
-4.
-5.
+3. Three Core Concepts
+4. Three Principles
+5. Actions
 6.
 7.
 8.
