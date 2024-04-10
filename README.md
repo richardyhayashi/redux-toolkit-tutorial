@@ -8,7 +8,7 @@
 3. Three Core Concepts
 4. Three Principles
 5. Actions
-6.
+6. Reducers
 7.
 8.
 9.
