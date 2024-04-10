@@ -12,6 +12,16 @@
 7. Store
 8. Restocking Cakes
 9. Bind Action Creators
-10.
+10. Cakes and Ice Creams
+11. Multiple Reducers
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
 
 31.
