@@ -14,7 +14,7 @@
 9. Bind Action Creators
 10. Cakes and Ice Creams
 11. Multiple Reducers
-12.
+12. Combine Reducers
 13.
 14.
 15.
