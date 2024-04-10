@@ -9,7 +9,7 @@
 4. Three Principles
 5. Actions
 6. Reducers
-7.
+7. Store
 8.
 9.
 10.
