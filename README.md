@@ -10,8 +10,8 @@
 5. Actions
 6. Reducers
 7. Store
-8.
-9.
+8. Restocking Cakes
+9. Bind Action Creators
 10.
 
 31.
