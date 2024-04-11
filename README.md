@@ -1,5 +1,6 @@
 # Redux Toolkit Tutorial
 
+`$ yarn add redux immer redux-logger`
 
 ## YouTube
 
@@ -16,7 +17,7 @@
 11. Multiple Reducers
 12. Combine Reducers
 13. Immer
-14.
+14. Middleware
 15.
 16.
 17.
